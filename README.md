@@ -12,3 +12,5 @@ Contents:
 - Descriptive_Graphics_4electrodes.R: reproduces Figures 4 and 6 in the paper
 
 - EEG_CWT_ratios_differences_GlobalTesting.R: implements all functional confidence bands analysis and reproduces Figures 2, 3, 5, S1-S4 in the paper
+
+- PDF files including the graphics obtained form the scripts and included in the paper
